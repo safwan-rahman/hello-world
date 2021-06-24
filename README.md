@@ -1,3 +1,4 @@
 # hello-world
-The beginning is here
+
 I am an aspiring nerd delving into the world of programming with Python, to become a true master of my ambitions. 
+Let's try adding another line to see what this is all about
